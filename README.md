@@ -8,6 +8,8 @@ Just put in your preamble
     
 It provides command `\resmes` that prints measure restriction symbol.
 
+If `resmes` is not available on your actual LaTeX distribution you can simply put the style file `resmes.sty` (and all its dependencies) in your working directory.
+
 ## License
 MIT License
 
@@ -29,5 +31,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contact information
-To contact me you can either open a [new discussion](https://github.com/Loara/resmes/discussions) or send me a **plain text** email. My email address can be found on my [personal page](https://loara.github.io/index.htm?lan=en&pag=lin).
+To contact me you can either open a [new discussion](https://github.com/Loara/resmes/discussions) on GitHub or send me a **plain text** email. My email address can be found on my [personal page](https://loara.github.io/index.htm?lan=en&pag=lin).
 
